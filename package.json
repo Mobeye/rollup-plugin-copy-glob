@@ -36,6 +36,6 @@
     "lint": "eslint --fix index.js"
   },
   "engines": {
-    "node": ">=9"
+    "node": ">=8"
   }
 }
